@@ -4,7 +4,7 @@
 I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. I enjoy creating innovative solutions and am looking to begin to participate in open-source projects.
 
 - 🌱 I’m currently learning artificail intelligence using Python.
-- 💬 Ask me about my cars extended waranty.
+- 💬 Ask me about web development.
 - 📫 How to reach me: http://hurstdevelopment.com/
 - 😄 Pronouns: He/Him
 
