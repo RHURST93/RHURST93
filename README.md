@@ -12,6 +12,6 @@ I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
 
 ## Languages and Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/RAHURST93)
 
 ## Connect with Me
