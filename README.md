@@ -1,4 +1,6 @@
-# Hello, I'm Randy Hurst! 👋
+
+
+![Hello, I’m Randy](https://github.com/user-attachments/assets/775537b1-607d-4589-84d1-946feb0adf20)
 
 ## About Me
 I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. I enjoy creating innovative solutions and am looking to begin to participate in open-source projects.
