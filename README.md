@@ -17,4 +17,5 @@ I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHURST93&layout=compact&theme=dark)](https://github.com/RHURST93)
 
 ## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randy-hurst-2075bab0/)
 
