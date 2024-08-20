@@ -1,5 +1,5 @@
 
-![Untitled design (3)](https://github.com/user-attachments/assets/829fb320-5d95-4fc1-8dd5-d16840b539b3)
+![Untitled design (4)](https://github.com/user-attachments/assets/7f1afd34-337c-44a8-ba0c-91bef3d6656c)
 
 
 ## About Me
