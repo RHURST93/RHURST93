@@ -7,7 +7,7 @@ I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. 
 
 - 🌱 I’m currently learning artificail intelligence using Python.
 - 💬 Ask me about web development.
-- 📫 How to reach me: http://hurstdevelopment.com/
+- 📫 How to reach me: https://hurstdevelopment.com/
 - 😄 Pronouns: He/Him
 
 ## My GitHub Stats
