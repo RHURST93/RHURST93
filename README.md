@@ -1,6 +1,6 @@
 
+![Untitled design (1)](https://github.com/user-attachments/assets/5e5c549c-716c-4319-8580-a9f1a9fb9066)
 
-![Hello, I’m Randy](https://github.com/user-attachments/assets/775537b1-607d-4589-84d1-946feb0adf20)
 
 ## About Me
 I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. I enjoy creating innovative solutions and am looking to begin to participate in open-source projects.
@@ -17,3 +17,4 @@ I'm a passionate developer with expertise in Mern stack, Next, SQL, and Docker. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RHURST93&layout=compact&theme=dark)](https://github.com/RHURST93)
 
 ## Connect with Me
+
